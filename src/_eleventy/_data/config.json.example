@@ -1,8 +1,7 @@
 {
-    "title": "The Intersect",
-    "description": "Personal Wiki",
+    "title": "Jack Kershaw|Personal Wiki",
+    "description": "My Personal Wiki",
     "baseUrl": "https://mycooldomain.com",
-    "githubLink": "https://github.com/username/repo",
-    "fathomTrackingId": null,
-    "fathomDomain": "cdn.usefathom.com"
+    "githubLink": "https://github.com/jones58",
+
 }

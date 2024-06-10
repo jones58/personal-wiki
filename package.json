@@ -20,7 +20,6 @@
     "@jochenlinnemann/markdown-it-imsize": "^2.0.1-style2",
     "cheerio": "^1.0.0-rc.10",
     "dotenv": "^10.0.0",
-    "fathom-api": "^1.1.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-concat": "^2.6.1",
